@@ -6,6 +6,6 @@ docker-compose up --build -d
 # remove
 docker-compose down
 
-Want to use another PHP framework ? just change inside source folder
+Want to use another PHP framework ? just change inside source folder ( data/source/ssv/)
 
 
