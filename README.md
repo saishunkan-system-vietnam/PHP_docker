@@ -1,5 +1,5 @@
 # PHP_docker
-CakePHP3 + MariaDB 10.4 + PHP7.4
+CakePHP3 + MariaDB 10.4 + PHP7.3
 
 # run 
 docker-compose up --build -d
